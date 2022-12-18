@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋 i'm Serge GNACADJA
+- Flutter dev full stack
+- Software Engineer
+- Mathematical and Modeling Engineer
+
+## This is my stats on github 😄
+![Gnac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnac05&show_icons=true&theme=dark)
 
 <!--
 **Gnac05/Gnac05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
